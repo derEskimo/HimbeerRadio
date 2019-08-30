@@ -1,0 +1,3 @@
+*.pyc
+Data/music/*
+!Data/music/.gitkeep
